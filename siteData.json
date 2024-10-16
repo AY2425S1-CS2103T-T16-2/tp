@@ -117,6 +117,7 @@
         "listing-all-persons-list": "Listing all persons : list",
         "editing-a-person-edit": "Editing a person : edit",
         "locating-persons-by-name-find": "Locating persons by name: find",
+        "listing-address-book-records-list": "Listing address book records: list",
         "adding-a-buyer-addbuyer": "Adding a buyer : addbuyer",
         "adding-a-seller-addseller": "Adding a seller : addseller",
         "deleting-a-buyer-deletebuyer": "Deleting a buyer : deletebuyer",
