@@ -120,6 +120,7 @@
         "deleting-a-seller-deleteseller": "Deleting a seller : deleteseller",
         "adding-a-property-addproperty": "Adding a property : addproperty",
         "deleting-a-property-deleteproperty": "Deleting a property : deleteproperty",
+        "filtering-clients-filterclient": "Filtering clients : filterclient",
         "clearing-all-entries-clear": "Clearing all entries : clear",
         "exiting-the-program-exit": "Exiting the program : exit",
         "saving-the-data": "Saving the data",
