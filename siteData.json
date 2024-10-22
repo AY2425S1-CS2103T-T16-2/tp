@@ -54,6 +54,8 @@
         "common-classes": "Common classes",
         "implementation": "Implementation",
         "proposed-filter-property-feature": "[Proposed] Filter property feature",
+        "proposed-delete-buyer-feature": "[Proposed] Delete Buyer Feature",
+        "proposed-delete-seller-feature": "[Proposed] Delete Seller Feature",
         "proposed-undo-redo-feature": "[Proposed] Undo/redo feature",
         "proposed-data-archiving": "[Proposed] Data archiving",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
