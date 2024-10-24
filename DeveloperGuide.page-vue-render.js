@@ -293,10 +293,10 @@ with(this){return _c('ol',[_c('li',[_v("Real estate agent requests to delete a p
 with(this){return _c('ul',[_c('li',[_c('p',[_v("1a. ClientGrid detects an error in the postal code or unit number format provided by the real estate agent.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("1a1. ClientGrid requests for the correct data.")])]),_v(" "),_c('li',[_c('p',[_v("1a2. Real estate agent enters new data.")])]),_v(" "),_c('li',[_c('p',[_v("Steps 1a1-1a2 are repeated until the data entered are correct.")])]),_v(" "),_c('li',[_c('p',[_v("Use case resumes from step 2.")])])])]),_v(" "),_c('li',[_c('p',[_v("1b. ClientGrid is unable to find a matching property listing entry in the database.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("1b1. ClientGrid informs real estate agent that the property listing does not exist in the database.")])]),_v(" "),_c('li',[_c('p',[_v("Use case ends.")])])])])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('strong',[_v("Use case: UC5 - List buyers, sellers, clients or properties")])])}
+with(this){return _c('p',[_c('strong',[_v("Use case: UC5 - List Clients (i.e. Buyers and/or Sellers), Properties or Meetings")])])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_v("Real Estate Agent requests to view a list of buyers, sellers, clients or properties")]),_v(" "),_c('li',[_v("ClientGrid will respond with the corresponding list")])])}
+with(this){return _c('ol',[_c('li',[_v("Real Estate Agent requests to view a list of clients (i.e. buyers and/or sellers), properties or meetings")]),_v(" "),_c('li',[_v("ClientGrid will display the corresponding list with each entry presented inside a card")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Use case: UC6 - Filter Client")])])}
@@ -362,6 +362,6 @@ with(this){return _c('h3',{attrs:{"id":"saving-data"}},[_v("Saving data"),_c('a'
 with(this){return _c('ol',[_c('li',[_c('p',[_v("Dealing with missing/corrupted data files")]),_v(" "),_c('ol',[_c('li',[_c('em',[_v("{explain how to simulate a missing/corrupted file, and the expected behavior}")])])])]),_v(" "),_c('li',[_c('p',[_c('em',[_v("{ more test cases …​ }")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Thu, 24 Oct 2024, 21:22:18 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Thu, 24 Oct 2024, 22:16:58 GMT+8]")])])])}
 }];
   
