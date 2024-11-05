@@ -104,7 +104,7 @@
       "src": "UserGuide.md",
       "title": "User Guide",
       "headings": {
-        "client-grid-user-guide": "Client Grid User guide",
+        "clientgrid-user-guide": "ClientGrid User guide",
         "quick-start": "Quick start",
         "features": "Features",
         "viewing-help-help": "Viewing help : help",
