@@ -68,6 +68,6 @@ with(this){return _c('p',[_v("["),_c('a',{attrs:{"href":"https://github.com/jolw
 with(this){return _c('ul',[_c('li',[_v("Role: Integration")]),_v(" "),_c('li',[_v("Responsibilities: In charge of versioning of the code, maintaining the code repository, integrating various parts of")]),_v(" "),_c('li',[_v("the software to create a whole. Handle delete property commands and documentation.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Tue, 5 Nov 2024, 22:40:48 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Wed, 6 Nov 2024, 0:19:59 GMT+8]")])])])}
 }];
   
