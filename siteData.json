@@ -43,6 +43,8 @@
         "clientgrid-developer-guide": "ClientGrid Developer Guide",
         "acknowledgements": "Acknowledgements",
         "use-of-generative-ai": "Use of Generative AI",
+        "mockito": "Mockito",
+        "ab3": "AB3",
         "setting-up-getting-started": "Setting up, getting started",
         "design": "Design",
         "architecture": "Architecture",
@@ -61,8 +63,7 @@
         "non-functional-requirements": "Non-Functional Requirements",
         "glossary": "Glossary",
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
-        "launch-and-shutdown": "Launch and shutdown",
-        "saving-data": "Saving data"
+        "launch-and-shutdown": "Launch and shutdown"
       },
       "headingKeywords": {}
     },
