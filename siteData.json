@@ -113,7 +113,7 @@
         "quick-start": "Quick start",
         "features": "Features",
         "viewing-help-help": "Viewing help : help",
-        "listing-clientgrid-records-list": "Listing ClientGrid records: list",
+        "listing-clientgrid-records-list": "Listing ClientGrid records : list",
         "adding-a-buyer-addbuyer": "Adding a buyer : addbuyer",
         "adding-a-seller-addseller": "Adding a seller : addseller",
         "filtering-clients-filterclient": "Filtering clients : filterclient",
@@ -130,7 +130,7 @@
         "faq": "FAQ",
         "known-issues": "Known issues",
         "glossary": "Glossary",
-        "command-summary": "Command Summary"
+        "command-summary": "Command summary"
       },
       "headingKeywords": {}
     },
